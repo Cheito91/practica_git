@@ -8,4 +8,4 @@ cuarta linea archivo 2
 
 quinta linea archivo 2
 
-cambios para la tercera version
+se resuelven conflictos para la quinta version
